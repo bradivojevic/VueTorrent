@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.0](https://www.github.com/WDaan/VueTorrent/compare/v0.6.0...v0.7.0) (2021-02-19)
+
+
+### Features
+
+* global pause/resume [#158](https://www.github.com/WDaan/VueTorrent/issues/158) ([28cdd0f](https://www.github.com/WDaan/VueTorrent/commit/28cdd0ff735f797d94c7b216990560c22030d101))
+* select all toggle [#161](https://www.github.com/WDaan/VueTorrent/issues/161) ([d3a5ac8](https://www.github.com/WDaan/VueTorrent/commit/d3a5ac8f978177e3cb69261c01e279e9615da2f4))
+
+
+### Bug Fixes
+
+* push precompiled release in a public folder ([adfc6a0](https://www.github.com/WDaan/VueTorrent/commit/adfc6a00f2e0b2e09f7f4e67a2efc3dc1db50194))
+
 ## [0.6.0](https://www.github.com/WDaan/VueTorrent/compare/0.5.6...v0.6.0) (2021-02-17)
 
 
